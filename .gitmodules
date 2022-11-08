@@ -1,0 +1,7 @@
+[submodule "uncertainty_eval"]
+	path = uncertainty_eval
+	url = git@github.com:mpitropov/uncertainty_eval.git
+[submodule "openpcdet"]
+	path = openpcdet
+	url = git@github.com:mpitropov/openpcdet.git
+	branch = uncertainty_mimo
